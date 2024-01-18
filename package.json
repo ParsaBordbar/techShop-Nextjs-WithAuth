@@ -5,6 +5,8 @@
     "tailwindcss": "^3.3.3"
   },
   "dependencies": {
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.14.12",
     "keen-slider": "^6.8.6"
   }
 }
